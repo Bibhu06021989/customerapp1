@@ -10,6 +10,19 @@
             "StackName": "amplify-customerapp1-dev-184639",
             "StackId": "arn:aws:cloudformation:ap-south-1:302942054378:stack/amplify-customerapp1-dev-184639/68dd6960-d00b-11ea-a025-0a60c7dae728",
             "AmplifyAppId": "dpegfgc5ipde7"
+        },
+        "categories": {
+            "function": {
+                "customerapp1CreateAuthChallenge": {
+                    "CHALLENGEANSWER": ""
+                },
+                "customerapp1DefineAuthChallenge": {},
+                "customerapp1PreSignup": {},
+                "customerapp1VerifyAuthChallengeResponse": {}
+            },
+            "auth": {
+                "customerapp1": {}
+            }
         }
     }
 }

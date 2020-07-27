@@ -1,0 +1,15 @@
+{
+  "trigger": true,
+  "modules": [
+    "custom"
+  ],
+  "parentResource": "customerapp1",
+  "functionName": "customerapp1PreSignup",
+  "resourceName": "customerapp1PreSignup",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "C:\\Users\\bibhu\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-category-auth\\provider-utils\\awscloudformation\\utils/../triggers/PreSignup",
+  "triggerTemplate": "PreSignup.json.ejs",
+  "roleName": "customerapp1PreSignup",
+  "skipEdit": true
+}
